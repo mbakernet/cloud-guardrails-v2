@@ -18,7 +18,7 @@ The following are questions for industry:
 
 1. Do you have any comments on the proposed update to the cloud guardrails?
 2. Do you anticipate any challenges for customers in implementing, validating, and reporting on compliance for the proposed guardrails?
-3. For SaaS, what is the recommended approach for validating the guardrails?
+3. For SaaS, what is the recommended approach for validating the guardrails either manually, or ideally, in an automated manner?
 
 ## Definitions
 
