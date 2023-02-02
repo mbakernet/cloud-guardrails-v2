@@ -17,7 +17,7 @@ Protect User Accounts and Identities.
   (Note: User accounts and identities include:
 
   1. Root/Global administrator (as it is one that that has enhanced/highest level of privileges over the control plane and addresses all aspects of access control).
-  2. Other Administrative user accounts. Refer to Section 4 of the “[Directive on Service and Digital](https://www.tbs-sct.canada.ca/pol/doc-eng.aspx?id=32601), [Appendix G: Standard on Enterprise Information Technology Service Common Configurations](https://www.tbs-sct.canada.ca/pol/doc-eng.aspx?id=32713) - [Account Management Configuration Requirements](https://www.canada.ca/en/government/system/digital-government/policies-standards/enterprise-it-service-common-configurations/account.html)” for the definition of privileged accounts.
+  2. Other Administrative user accounts. Refer to Section 4 of the [Directive on Service and Digital](https://www.tbs-sct.canada.ca/pol/doc-eng.aspx?id=32601), [Appendix G: Standard on Enterprise Information Technology Service Common Configurations](https://www.tbs-sct.canada.ca/pol/doc-eng.aspx?id=32713) - [Account Management Configuration Requirements](https://www.canada.ca/en/government/system/digital-government/policies-standards/enterprise-it-service-common-configurations/account.html) for the definition of privileged accounts.
   3. Regular user accounts)
 
 - Configure alerting to ensure the prompt detection of a potential compromise, in accordance with the GC Event Logging Guidance.
