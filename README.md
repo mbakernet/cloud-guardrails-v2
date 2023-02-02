@@ -4,7 +4,7 @@
 
 ## Introduction
 
-In August 2019, the Government of Canada (GC) established the GC Cloud Guardrails. The GC Cloud Guardrails are mandated under Directive on Service and Digital- Canada.ca - Appendix G: Standard on Enterprise Information Technology Service Common Configurations- Canada.ca. The GC cloud guardrails are a preliminary set of baseline security controls to ensure that the cloud service environment has a minimum set of configurations for the cloud environment.
+In August 2019, the Government of Canada (GC) established the [GC Cloud Guardrails](https://github.com/canada-ca/cloud-guardrails). The [GC Cloud Guardrails](https://github.com/canada-ca/cloud-guardrails) are mandated under the [Directive on Service and Digital](https://www.tbs-sct.canada.ca/pol/doc-eng.aspx?id=32601) [Appendix G: Standard on Enterprise Information Technology Service Common Configurations](https://www.tbs-sct.canada.ca/pol/doc-eng.aspx?id=32713). The [GC Cloud Guardrails](https://github.com/canada-ca/cloud-guardrails) are a preliminary set of baseline security controls to ensure that the cloud service environment has a minimum set of configurations for the cloud environment.
 
 Currently, the guardrails are going through an update cycle. The updated version is presented as GC Cloud Guardrails – BETA in this repo.
 
