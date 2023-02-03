@@ -1,6 +1,6 @@
 # GC Cloud Guardrails – BETA
 
-([Français](#mesures-de-protection-du-nuage-du-gouvernement-du-canada))
+([Français](#mesures-de-protection-du-nuage-du-gouvernement-du-canada---beta))
 
 ## Introduction
 
