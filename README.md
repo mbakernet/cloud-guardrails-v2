@@ -59,7 +59,7 @@ The Canada wordmark and related graphics associated with this distribution are p
 
 <!-- markdownlint-disable MD024 MD025 -->
 
-# Mesures de protection du nuage du gouvernement du Canada
+# Mesures de protection du nuage du gouvernement du Canada - BETA
 
 <!-- ## Introduction
 
@@ -86,7 +86,7 @@ Les définitions suivantes sont utilisées pour ce document :
 - Exigences obligatoires : Un ensemble de mesures de sécurité de base que les ministères doivent mettre en œuvre, valider et faire rapport dans les 30 premiers jours ouvrables.
 - Autres considérations : Autres mesures de sécurité qui sont fortement recommandées et doivent être prises en considération. Bien que l’on ne s’attende pas à ce qu’elles soient mises en œuvre dans les 30 jours ouvrables, elles comprennent les pratiques exemplaires qui devraient être prises en compte à mesure que les ministères progressent dans la mise en place de leur environnement en nuage. -->
 
-## Mesures de protection du nuage - BETA
+## Mesures de protection du nuage
 
 | ID. | Mesures de protection du nuage                                                                                        |
 | --- | --------------------------------------------------------------------------------------------------------------------- |
