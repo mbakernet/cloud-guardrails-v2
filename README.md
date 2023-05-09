@@ -1,4 +1,4 @@
-# GC Cloud Guardrails – BETA
+# GC Cloud Guardrails v2.1 – BETA
 
 ([Français](#mesures-de-protection-du-nuage-du-gc--version-bêta))
 
