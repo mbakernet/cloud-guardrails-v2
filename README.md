@@ -59,7 +59,7 @@ The Canada wordmark and related graphics associated with this distribution are p
 
 <!-- markdownlint-disable MD024 MD025 -->
 
-# Mesures de protection du nuage du GC – Version bêta
+# Mesures de protection du nuage du GC v2.1 – Version bêta
 
 ## Introduction
 
