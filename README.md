@@ -1,6 +1,8 @@
 # GC Cloud Guardrails v2.1 – BETA
 
-([Français](#mesures-de-protection-du-nuage-du-gc--version-bêta))
+([Français](#mesures-de-protection-du-nuage-du-gc-v21--version-bêta))
+
+### **Status: this consultation is closed.**
 
 ## Introduction
 
@@ -60,6 +62,8 @@ The Canada wordmark and related graphics associated with this distribution are p
 <!-- markdownlint-disable MD024 MD025 -->
 
 # Mesures de protection du nuage du GC v2.1 – Version bêta
+
+### **Statut: cette consultation est maintenant terminée!**
 
 ## Introduction
 
