@@ -16,7 +16,8 @@ Implement increased levels of protection for management interfaces.
 
 | Additional Considerations                                                                                    |                                                                                                                             |
 | ------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------- |
-| <ul><li>Leverage dedicated Privileged Access Workstations to conduct all administrative activities</li></ul> | <ul><li>Confirm if dedicated Privileged Access Workstations are utilized to conduct all administrative activities</li></ul> |
+| <ul><li>"All administrative tasks should be undertaken on dedicated administrative workstations
+(Note: A dedicated administrative workstation is a secured physical (thick or thin) client workstation used to perform specific and sensitive administrative tasks or tasks requiring privileged access. This device must have no Internet access and services such as email and web browsing must be disabled and prohibited)</li></ul> | <ul><li>Confirm if dedicated administrative workstations are utilized to conduct all administrative activities</li></ul> |
 
 ## References
 

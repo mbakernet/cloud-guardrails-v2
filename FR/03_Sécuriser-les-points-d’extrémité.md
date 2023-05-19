@@ -16,7 +16,8 @@ Mettre en œuvre des niveaux de protection accrus pour les interfaces de gestion
 
 | Autres considérations                                                                                                             |                                                                                                                                                    |
 | --------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <ul><li>Exploiter des postes de travail à accès privilégié spécialisés pour mener toutes les activités administratives.</li></ul> | <ul><li>Confirmer si des postes de travail spécialisés à accès privilégié sont utilisés pour mener toutes les activités administratives.</li></ul> |
+| <ul><li>Toutes les tâches administratives devraient être entreprises à partir de postes de travail administratifs dédiés.
+(Nota : Un poste de travail administratif dédié est un poste de travail client physique (léger ou lourd) qui sert à effectuer certaines tâches administratives particulières et de nature sensible, ou des tâches qui exigent que l’on ait un accès privilégié. Cet appareil ne doit pas avoir accès à Internet, et les services, comme le courriel ou le furetage, doivent être désactivés et interdits.) </li></ul> | <ul><li>Confirmer si des postes de travail dédiés sont utilisés pour mener toutes les activités administratives.</li></ul> |
 
 ## Références
 
